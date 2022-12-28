@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "773059280275",
+    "project_id": "mokapos-6b454",
+    "storage_bucket": "mokapos-6b454.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773059280275:android:f8c2628bf9654baed37c66",
+        "android_client_info": {
+          "package_name": "com.example.capek_ngoding_web"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "773059280275-2uvdef9mr70bqofukk0cfhk14252pmvp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.capek_ngoding_web",
+            "certificate_hash": "179b38c0ce7167763c26da02df1caa9406349c48"
+          }
+        },
+        {
+          "client_id": "773059280275-ilf7kukj9737v200aopqbg82otqbfmh4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlIlNaDgtzp_KdRwGioc3wbYXYrLa243s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "773059280275-ilf7kukj9737v200aopqbg82otqbfmh4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
